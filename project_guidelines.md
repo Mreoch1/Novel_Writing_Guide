@@ -1,7 +1,74 @@
-# Project Guidelines: Doing Nothing, Badly
+# "Doing Nothing, Badly" Project Guidelines
 
 ## Core Concept
-A sardonic protagonist who has perfected the art of doing nothing is forced to confront the ultimate nightmare: an intrusive Japanese game show filming on his peaceful island, complete with an incompetent translator and increasingly bizarre challenges.
+A sardonic, underachieving former detective named Miles who inherited a beach house from his grandfather gets his peaceful island life disrupted when an absurd Japanese game show begins filming on and around his property. Miles, who now reluctantly serves as the island's unofficial "detective" finding lost pets and missing items for locals, wants nothing more than to be left alone but keeps getting drawn into the chaos. The show has only one translator with questionable English skills, adding to the confusion and comedy.
+
+## The Protagonist: Miles
+- A washed-up former detective who was never particularly good at his job back home
+- Inherited a beach house on a small tropical island from his grandfather
+- Values laziness and solitude above all else
+- Reluctantly serves as the island's unofficial "detective," solving minor mysteries like finding lost pets and missing items for just enough money to keep coconut drinks flowing and buy replacement flip-flops
+- Dry, sardonic wit and perpetual detachment from everything around him
+- Has a disgruntled but motherly housekeeper who continues to work for him despite his inability to pay her regularly
+- Constantly losing his flip-flops in increasingly improbable ways
+- Character resembles a blend of "The Dude" from The Big Lebowski and Bill Murray's persona
+
+## Setting
+- A small, remote tropical island with a tight-knit community of eccentric locals
+- Miles' beachfront property is simple but in a prime location
+- Limited modern conveniences, adding to both the charm and frustration
+- Local establishments include a combination bar/post office, a small general store, and a laundromat
+
+## The Game Show: "Extreme Island Challenge: Foreign Devils Edition"
+- An over-the-top Japanese game show featuring absurd physical challenges
+- Contestants wear ridiculous sea creature costumes while competing
+- Has a single translator named Yuki who has questionable English skills and makes everything more confusing
+- Hosted by an enthusiastic Japanese man named Takashi who speaks exclusively in rapid Japanese
+- Teams compete in increasingly bizarre challenges for the entertainment of Japanese audiences
+- Contestants are a mix of D-list celebrities, influencers, and reality TV personalities
+- Production team constantly encroaches on Miles' peaceful existence
+
+## Tone and Style
+- First-person narration from Miles' perspective
+- Dry, sardonic voice with observational humor
+- Juxtaposition of Miles' desire for nothing against the chaos of the game show
+- Absurdist humor mixed with genuine character moments
+- Running gags, especially involving Miles' mysteriously disappearing flip-flops
+- Gradually reveals more about Miles' past as a mediocre detective
+
+## Narrative Arc
+- Miles' peaceful "doing nothing" existence is disrupted by the game show
+- He reluctantly gets pulled into the production's orbit despite his best efforts to avoid it
+- Forms an unexpected connection with one of the contestants, Alessandra
+- His minor detective skills become useful in unexpected ways
+- Character growth occurs despite Miles' active resistance to change
+- Ultimately finds a new balance between his desire for solitude and his connections to others
+
+## Chapter Structure
+- Each chapter focuses on a specific incident or interaction
+- Game show challenges serve as set pieces
+- Miles' internal monologue provides sardonic commentary on events
+- Gradual reveals about his past and character
+- Supporting characters weave in and out of the narrative
+
+## Running Gags
+- Miles' flip-flops constantly disappearing or being found in strange places
+- Yuki's increasingly bizarre mistranslations
+- The housekeeper's ongoing disappointment with Miles' lifestyle
+- Local residents asking Miles to find increasingly ridiculous lost items
+- Miles' attempts to avoid everyone being consistently thwarted
+- The contrast between his self-proclaimed laziness and his actual helpfulness
+
+## Supporting Characters
+- Mrs. Kealoha: Miles' disgruntled but motherly housekeeper who continues working despite irregular payment
+- Kip: Owner of the combination bar/post office and Miles' reluctant friend
+- Leilani: Runs the island's general store and knows everyone's business
+- Paco: Delivery person who brings Miles supplies and information
+- Yuki: The game show's translator whose English is creatively inaccurate
+- Takashi: The enthusiastic Japanese host who seems perpetually excited
+- Madison: Location coordinator for the show who serves as Miles' primary contact
+- Alessandra: Intelligent contestant who sees through Miles' hermit act
+- Various locals who constantly seek Miles' help for minor mysteries
 
 ## Key Elements
 
