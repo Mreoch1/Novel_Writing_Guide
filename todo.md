@@ -106,25 +106,43 @@
 - ✅ Fix chapter formatting (remove markdown # from titles)
 - ✅ Create Chapter 3: Celebrity Collision
 - ✅ Create Chapter 4: The First Challenge
+- ✅ Revise concept from Survivor-style show to Japanese game show 
+- ✅ Add the flip-flop running gag
+- ✅ Update project guidelines with new concept
+- ✅ Revise Chapter 4 with new game show concept
 
 ## In Progress
 - 🔄 Continue developing the story arc
-- 🔄 Build out the supporting characters (Alessandra, Kip, Paco, etc.)
+- 🔄 Build out the supporting characters (Sofia, Kip, Paco, Yuki, etc.)
+- 🔄 Develop the flip-flop mythology and merchandising sub-plot
 
 ## To Do
-- 📝 Create Chapter 5
+- 📝 Create Chapter 5: The Barefoot Oracle's Prophecy Path
 - 📝 Create Chapter 6
-- 📝 Expand on island setting details
+- 📝 Expand on island setting details with Japanese production elements
 - 📝 Add more depth to protagonist's backstory
-- 📝 Develop the reality show competition story
+- 📝 Develop Yuki's creative mistranslations as a running joke
 - 📝 Create a proper character sheet for all main and supporting characters
+- 📝 Develop the sentient flip-flop storyline
+- 📝 Create mock-ups of Oracle Flip-Flop merchandise
 
 ## Project Guidelines
 - Maintain the sardonic, minimal-effort voice of the protagonist
 - Balance humor with moments of authentic connection
-- Keep chapters around 3,000-4,000 words
-- Ensure all chapters are properly synced to Google Drive
+- Keep chapters around 4,000-5,000 words
+- Ensure at least one flip-flop loss incident per chapter
+- Include increasingly absurd mistranslations from Yuki
 - Follow the established formatting template
+- Maintain a consistent tone of bewildered resignation from the protagonist
+
+## Japanese Game Show Elements
+- Outlandish challenges with nonsensical rules
+- Extreme reactions from host Takashi
+- Yuki's creative mistranslations
+- Mixture of Japanese and international contestants
+- Excessive props, costumes, and set pieces
+- Merchandising and commercialization
+- Contrast between Japanese enthusiasm and protagonist's apathy
 
 ## Planning Phase
 - [x] Define concept and premise

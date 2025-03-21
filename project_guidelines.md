@@ -1,5 +1,80 @@
 # Project Guidelines: Doing Nothing, Badly
 
+## Core Concept
+A sardonic protagonist who has perfected the art of doing nothing is forced to confront the ultimate nightmare: an intrusive Japanese game show filming on his peaceful island, complete with an incompetent translator and increasingly bizarre challenges.
+
+## Key Elements
+
+### Protagonist
+- Miles: A professional slacker who has refined doing nothing into an art form
+- Deliberately avoids productivity and structured activity
+- Maintains a deliberately minimal existence on a small island
+- Constantly losing his flip-flops at the most inconvenient moments (running gag)
+- Reluctantly drawn into the chaos of the game show for financial gain
+
+### Setting
+- Small, somewhat remote island with limited tourist activity
+- Tight-knit local community with eccentric characters
+- Protagonist lives in a basic bungalow near the beach
+- Limited modern conveniences (spotty internet, unreliable electricity)
+- Beautiful natural scenery contrasted with invasive production equipment
+
+### Game Show Concept
+- Japanese game show with outlandish challenges and exaggerated reactions
+- Single translator (Yuki) who has questionable English skills and frequently mistranslates
+- Host (Takashi) speaks entirely in Japanese with extreme enthusiasm
+- Contestants include a mix of Japanese celebrities and English-speaking "international guests"
+- Increasingly absurd challenges that make no logical sense
+- Elaborate sets and props that disrupt island life
+
+### Tone and Style
+- First-person narration with dry, sardonic voice
+- Observational humor highlighting absurdity
+- Minimal effort as a life philosophy
+- Occasional moments of genuine connection amidst the chaos
+- Running gag: protagonist constantly loses his flip-flops at crucial moments
+
+### Narrative Arc
+- Protagonist's peaceful existence disturbed by game show
+- Reluctant involvement for financial reasons
+- Gradual, unwilling integration into the production
+- Development of unexpected connections
+- Evolution of protagonist without sacrificing core identity
+
+## Writing Style Guide
+- Maintain consistent first-person voice
+- Short, punchy sentences interspersed with longer observations
+- Liberal use of sarcasm and understatement
+- Minimal exposition, show don't tell
+- Realistic dialogue with distinct character voices
+
+## Character Development Guidelines
+- Protagonist should evolve without fundamentally changing
+- Supporting characters should have clear motivations and quirks
+- Game show crew and contestants should be over-the-top but with hints of depth
+- Local island characters provide grounding and contrast
+
+## Chapter Structure
+- Each chapter should focus on a single game show challenge or disruption
+- Chapters typically 3,000-4,000 words
+- Begin with protagonist's peaceful routine being disrupted
+- Include at least one flip-flop loss incident per chapter
+- End with reluctant preparation for next challenge or reflection on the day's absurdity
+
+## Running Gags
+- Protagonist constantly losing his flip-flops at crucial moments
+- Yuki's increasingly bizarre mistranslations
+- The host's excessive enthusiasm regardless of situation
+- Local islanders capitalizing on the production in unexpected ways
+- Protagonist's hammock repeatedly being disturbed or relocated
+- Contestants misinterpreting island customs in ridiculous ways
+
+## Technical Requirements
+- Follow proper manuscript formatting
+- Maintain synchronization between local files and Google Drive
+- Track progress and tasks in todo.md
+- Document character details and setting information in appropriate files
+
 ## Project Overview
 "Doing Nothing, Badly" is a comedy novel centered around an unnamed tech millionaire who wants nothing more than to relax in peace on his remote tropical island. When a reality TV show invades his sanctuary, he must navigate a series of small but increasingly absurd annoyances while trying to maintain his do-nothing lifestyle.
 
