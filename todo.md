@@ -97,6 +97,35 @@
 
 # TODO List: Doing Nothing, Badly
 
+## Completed
+- ✅ Initial project setup
+- ✅ Create Chapter 1: The Sound of Doing
+- ✅ Create Chapter 2: The Calm Before the Storm
+- ✅ Set up Google Drive integration
+- ✅ Implement automatic sync between local files and Google Drive
+- ✅ Fix chapter formatting (remove markdown # from titles)
+- ✅ Create Chapter 3: Celebrity Collision
+- ✅ Create Chapter 4: The First Challenge
+
+## In Progress
+- 🔄 Continue developing the story arc
+- 🔄 Build out the supporting characters (Alessandra, Kip, Paco, etc.)
+
+## To Do
+- 📝 Create Chapter 5
+- 📝 Create Chapter 6
+- 📝 Expand on island setting details
+- 📝 Add more depth to protagonist's backstory
+- 📝 Develop the reality show competition story
+- 📝 Create a proper character sheet for all main and supporting characters
+
+## Project Guidelines
+- Maintain the sardonic, minimal-effort voice of the protagonist
+- Balance humor with moments of authentic connection
+- Keep chapters around 3,000-4,000 words
+- Ensure all chapters are properly synced to Google Drive
+- Follow the established formatting template
+
 ## Planning Phase
 - [x] Define concept and premise
 - [x] Establish tone and style
