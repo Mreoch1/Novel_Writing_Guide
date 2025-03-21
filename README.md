@@ -37,36 +37,49 @@ This repository provides a complete set of tools and guidelines for novel writin
 
 ## Getting Started
 
-### 1. Clone This Repository
+### 1. Clone This Repository with Automatic Setup
 
 ```bash
-git clone https://github.com/Mreoch1/Novel_Writing_Guide.git
-cd Novel_Writing_Guide
+git clone https://github.com/Mreoch1/Novel_Writing_Guide.git my_new_novel
+cd my_new_novel
 ```
 
-### 2. Set Up Google Drive Integration (Optional)
+When you clone the repository, the setup script will automatically:
+- Detect that this is a fresh clone
+- Guide you through setting up Google Docs integration
+- Install required dependencies
+- Create necessary folder structures
+- Set up Git hooks for automatic syncing
 
-This repository includes scripts to sync your writing with Google Drive for cloud backup and collaborative editing.
+If you prefer to manually set up Google Drive integration later, you can skip the automatic setup and run it manually when ready:
 
-1. Install the required dependencies:
-   ```bash
-   # For macOS
-   pip3 install -r scripts/requirements.txt
-   brew install coreutils findutils
-   ```
+```bash
+./scripts/sync_to_google_docs.sh
+```
 
-2. Set up Google Drive:
-   - Install [Google Drive for Desktop](https://www.google.com/drive/download/)
-   - Follow the instructions in `docs/google_docs_integration.md`
+### 2. Google Drive Integration Setup
 
-3. Configure the sync script:
-   - Edit `scripts/sync_to_google_docs.sh` to update your Google Drive path
-   - Make the scripts executable: `chmod +x scripts/*.sh scripts/*.py`
+The automatic setup will help you configure Google Drive integration, but you'll need to:
 
-4. Run the sync script:
-   ```bash
-   ./scripts/sync_to_google_docs.sh
-   ```
+1. **Install Google Drive for Desktop**:
+   - Download from: https://www.google.com/drive/download/
+   - Sign in with your Google account
+
+2. **Configure Google Drive Path**:
+   - Edit `scripts/sync_to_google_docs.sh` 
+   - Update the `GDRIVE_SYNC_DIR` variable with your actual Google Drive path
+   - Common paths: 
+     - `$HOME/Library/CloudStorage/GoogleDrive-youremail@example.com/My Drive/Novel_Writing_Guide`
+     - `$HOME/Google Drive/My Drive/Novel_Writing_Guide`
+
+3. **Set Up Google API Access** (if using conversion features):
+   - Follow instructions in `docs/google_docs_integration.md`
+   - Create a Google Cloud project and enable necessary APIs
+   - Download credentials.json to the scripts directory
+
+4. **Sync Your Files**:
+   - After configuration, files will automatically sync after git pull
+   - You can manually sync anytime by running: `./scripts/sync_to_google_docs.sh`
 
 ## Using the Writing Guides
 

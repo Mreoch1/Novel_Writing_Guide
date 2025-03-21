@@ -140,7 +140,7 @@
 ## Writing Tasks
 - [x] Write Chapter 1: The Sound of Doing (revised to include Miles' support system)
 - [x] Create properly formatted version of Chapter 1 following submission guidelines
-- [ ] Write Chapter 2: [Title TBD]
+- [x] Create chapter 2 (Reality show setup and protagonist's reaction)
 - [ ] Write Chapter 3: [Title TBD]
 - [ ] Write Chapter 4: [Title TBD]
 - [ ] Write Chapter 5: [Title TBD]

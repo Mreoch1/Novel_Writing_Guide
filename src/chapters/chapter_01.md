@@ -1,4 +1,4 @@
-# Chapter 1: The Sound of Doing
+Chapter 1: The Sound of Doing
 
 Hammocks are perfect because they require zero effort. You don't make a bed that's already a bed. You don't fluff pillows that don't exist. You just lie there, suspended, like your entire existence - hanging in place, not really going anywhere.
 
