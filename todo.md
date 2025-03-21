@@ -249,3 +249,43 @@
 3. Map the island with key locations
 4. Write first chapter
 5. Establish consistent voice with sample paragraphs 
+
+# Project Todo List
+
+## Completed
+- ✅ Create project structure and setup
+- ✅ Define project guidelines and story concept
+- ✅ Chapter 1 (revised): The Sound of Doing
+- ✅ Chapter 2 (revised): The Calm Before the Storm
+- ✅ Chapter 3 (revised): Celebrity Collision
+- ✅ Update project guidelines to reflect new Japanese game show concept
+- ✅ Incorporate flip-flop running gag in existing chapters
+
+## In Progress
+- ⏳ Chapter 4 (revision): Rewrite to incorporate Japanese game show and revised protagonist backstory
+- ⏳ Chapter 5: Plan and outline
+
+## To Do
+- 📝 Create character profiles for supporting cast (game show contestants, crew, etc.)
+- 📝 Develop detailed outline for game show challenges and progression
+- 📝 Chapter 5: Draft
+- 📝 Chapter 6: Plan and draft
+- 📝 Research Japanese game show formats and terminology for authenticity
+- 📝 Sketch island map with key locations
+- 📝 Create glossary of Japanese phrases used by host and translator
+
+## Ideas for Future Chapters
+- The protagonist gets dragged into participating in a challenge
+- The protagonist forms an unlikely alliance with Alessandra
+- A challenge goes wrong, and the protagonist's detective skills are needed
+- The protagonist's past case (The Librarian) comes back to haunt him in some way
+- Local island residents get involved with the game show
+- The protagonist's flip-flops continue to disappear in increasingly improbable ways
+
+## Development Notes
+- Keep the protagonist's voice consistently sardonic and detached
+- Balance the absurdity of the game show with genuine character moments
+- Develop the translator (Yuki) as a key comedic element
+- Ensure the flip-flop running gag appears in every chapter in unique ways
+- Gradually reveal more about the protagonist's past as a detective
+- Consider how the protagonist's wealth from Bitcoin affects his decisions and attitudes 
