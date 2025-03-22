@@ -12,7 +12,14 @@
 
 ✅ Created project_guidelines.md for overall organization
 ✅ Created todo.md for tracking improvements
+✅ Added Google Drive integration tools
 
+## Google Drive Integration
+- [ ] Complete the drive-sync.js script implementation
+- [ ] Set up Google Cloud Platform project
+- [ ] Create OAuth credentials
+- [ ] Test synchronization with Google Drive
+- [ ] Document the complete setup process
 ## Immediate Tasks
 
 ### Content Refinement

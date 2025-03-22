@@ -1,0 +1,48 @@
+{
+  "name": "ink_between_us",
+  "version": "1.0.0",
+  "description": "## Introduction",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mreoch1/Novel_Writing_Guide.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mreoch1/Novel_Writing_Guide/issues"
+  },
+  "homepage": "https://github.com/Mreoch1/Novel_Writing_Guide#readme",
+  "dependencies": {
+    "@supabase/auth-helpers-nextjs": "^0.10.0",
+    "@supabase/auth-helpers-react": "^0.5.0",
+    "@supabase/supabase-js": "^2.49.1",
+    "googleapis": "^148.0.0",
+    "next": "^15.2.3",
+    "openai": "^4.89.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^10.1.0",
+    "remark-gfm": "^4.0.1"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.11",
+    "@types/react": "^19.0.12",
+    "@types/react-dom": "^19.0.4",
+    "autoprefixer": "^10.4.21",
+    "eslint": "^9.23.0",
+    "eslint-config-next": "^15.2.3",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.0.15",
+    "typescript": "^5.8.2"
+  }
+}

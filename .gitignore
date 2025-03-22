@@ -1,0 +1,14 @@
+# Node.js
+node_modules/
+
+# Backup files
+*.bak
+
+# Environment variables
+.env
+
+# OAuth tokens
+token.json
+
+# Credentials
+credentials.json
